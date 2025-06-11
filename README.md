@@ -118,3 +118,5 @@ This project aims to provide a meaningful and ethical digital solution to the ev
 
 
 ## CHALLENGES / DIFFICULTIES TO DEVELOP THE APPLICATION 
+
+## REFERENCES 
