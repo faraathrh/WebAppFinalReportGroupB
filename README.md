@@ -100,6 +100,9 @@ This project aims to provide a meaningful and ethical digital solution to the ev
 
 #### 1. Menu Management (Admin Module)
 
+  In the Laravel Menu System, the Menu model essentially holds powers over the data and its interaction with the database. It was built upon an MVC architecture. It explicitly informs which fields can be set by mass assignment: name, description, price, category, and image. It contains accessors such as formattedPrice (to format the display of a price) and imageUrl (to build a full image URL). The application's business logic is handled inside the MenuController. It contains methods such as create() to display a form for the creation of an item, index() to show all menu items, store() to validate input and save new items along with the submitted image, and edit() and update() to allow updating the item information of an existing menu item, as well as optionally changing the image by removing the previous one and saving a new one.
+  
+  A menu item and the image that goes with it are deleted from storage using the destroy() function.  The user interface is provided on the frontend using Blade views such as menu.create, menu.edit, and menu.index.  While the edit view enables altering existing items, the create view includes a form for adding new ones.  With jQuery-based category filtering and the ability to add or remove items, the index view presents every menu item in a fluid and filterable layout.  To guarantee correct operation, all interactions are protected against cross-site request forgery (CSRF) and make advantage of Laravel's routing and validation capabilities.
 
 
 #### 2. Point of Sale (POS) System (Staff Module) and Order Queue Management
