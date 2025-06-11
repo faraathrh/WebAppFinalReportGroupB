@@ -95,3 +95,26 @@ This project aims to provide a meaningful and ethical digital solution to the ev
 
 #### 5. Reporting & Analytics
 ![Reporting   Analytics](https://github.com/user-attachments/assets/a67bd488-0df2-44f9-b76c-6a2678c6e3d5)
+
+## PROJECT SYSTEM CAPTURED SCREEN 
+
+#### 1. Menu Management (Admin Module)
+
+
+
+#### 2. Point of Sale (POS) System (Staff Module) and Order Queue Management
+
+
+
+#### 3. Inventory Management (Admin Module)
+
+
+
+#### 4. Customer & Loyalty System
+
+
+
+#### 5. Reporting & Analytics
+
+
+## CHALLENGES / DIFFICULTIES TO DEVELOP THE APPLICATION 
