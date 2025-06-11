@@ -44,7 +44,7 @@ This project aims to provide a meaningful and ethical digital solution to the ev
 
 
 ## FEATURES AND FUNCTIONALITIES OF THE PROJECT
-#### 1. Menu Management (Admin Module)
+#### 1. Menu Management 
 - Add/Delete/Edit menu items (CRUD)
 - Categorize items (e.g: drinks, pastries)
 - Upload images, prices and descriptions
@@ -96,7 +96,7 @@ This project aims to provide a meaningful and ethical digital solution to the ev
 #### 5. Reporting & Analytics
 ![Reporting   Analytics](https://github.com/user-attachments/assets/a67bd488-0df2-44f9-b76c-6a2678c6e3d5)
 
-## PROJECT SYSTEM CAPTURED SCREEN 
+## PROJECT SYSTEM CAPTURED SCREEN AND EXPLANATION
 
 #### 1. Menu Management (Admin Module)
 
