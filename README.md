@@ -177,13 +177,13 @@ The Reporting & Analytics module provides valuable insights into the cafe's perf
 
 This module includes:
 
-1. 📈 Monthly Sales Report
+1. Monthly Sales Report
 Displays total sales for each month, helping to understand revenue patterns and business growth over time.
 
-2. 🏆 Best-Selling Items
+2. Best-Selling Items
 Shows the most popular products based on the number of sales, allowing the cafe to identify customer favorites and maintain inventory accordingly.
 
-3. 🐢 Slow Movers
+3. Slow Movers Items
 Highlights items with the lowest sales, which helps in identifying products that may need promotion, improvement, or removal from the menu.
 
 With these reports, the cafe can plan better marketing, manage inventory efficiently, and boost overall performance.
