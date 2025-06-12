@@ -106,8 +106,14 @@ This project aims to provide a meaningful and ethical digital solution to the ev
 
 
 #### 2. Point of Sale (POS) System (Staff Module) and Order Queue Management
+In the Laravel POS System, the POSController manages order-related logic using Laravel’s MVC architecture. It handles menu display, cart operations using sessions, checkout validation, and order saving. When users add items to the cart, they’re stored in the session. During checkout, processCheckout() validates input, saves the order to the orders table, and each item to the ordered_items table.
 
+The system uses Blade views:
+1. POS.blade.php for menu selection and cart,
+2. checkout.blade.php for payment selection and order summary,
+3. receipt.blade.php for printing a receipt with item details, payment method, status, and timestamp.
 
+Session data is cleared after the order is placed. Printing is optimized with CSS for A6 paper. Laravel’s routing, session handling, and CSRF protection ensure smooth, secure operation.
 
 #### 3. Inventory Management (Admin Module)
 
@@ -120,6 +126,8 @@ This project aims to provide a meaningful and ethical digital solution to the ev
 #### 5. Reporting & Analytics
 
 
-## CHALLENGES / DIFFICULTIES TO DEVELOP THE APPLICATION 
+## CHALLENGES / DIFFICULTIES TO DEVELOP THE APPLICATION
+
+One of the hardest challenges during the project was going back and forth between views and controllers to make sure the routes were correct. Many times, we mistook the coding and errors upon errors kept returning.
 
 ## REFERENCES 
