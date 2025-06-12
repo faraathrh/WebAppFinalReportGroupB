@@ -173,8 +173,20 @@ The key features are:
 ![image](https://github.com/user-attachments/assets/5424e188-40b1-40b4-8c29-dc5943a05b41)
 ![image](https://github.com/user-attachments/assets/1d6ff061-fbcb-4e67-ade9-d333a45c833a)
 
+The Reporting & Analytics module provides valuable insights into the cafe's performance. It helps the admin make informed decisions by tracking and analyzing important data from sales and product trends.
 
+This module includes:
 
+1. 📈 Monthly Sales Report
+Displays total sales for each month, helping to understand revenue patterns and business growth over time.
+
+2. 🏆 Best-Selling Items
+Shows the most popular products based on the number of sales, allowing the cafe to identify customer favorites and maintain inventory accordingly.
+
+3. 🐢 Slow Movers
+Highlights items with the lowest sales, which helps in identifying products that may need promotion, improvement, or removal from the menu.
+
+With these reports, the cafe can plan better marketing, manage inventory efficiently, and boost overall performance.
 
 ## CHALLENGES / DIFFICULTIES TO DEVELOP THE APPLICATION
 
