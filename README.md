@@ -123,6 +123,12 @@ The system uses Blade views:
 
 Session data is cleared after the order is placed. Printing is optimized with CSS for A6 paper. Laravel’s routing, session handling, and CSRF protection ensure smooth, secure operation.
 
+![pos_module)](ordersystem1.png)
+![pos_module)](ordersystem2.png)
+![pos_module)](checkout.png)
+![pos_module)](receipt.png)
+![pos_module)](printreceipt.png)
+
 #### 3. Inventory Management 
 ![inventory page)](Inventory1.png)
 In the Laravel Inventory Management module, stock-related operations are handled following Laravel’s MVC structure. The module includes key views such as `index.blade.php` for listing all inventory items, `create.blade.php` and `form.blade.php` for adding new stock, and `edit.blade.php` for modifying existing records. Users can perform **CRUD operations**—adding, editing, and deleting stock items for both café and event inventory.
