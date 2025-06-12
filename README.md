@@ -128,9 +128,12 @@ Session data is cleared after the order is placed. Printing is optimized with CS
 
 
 #### 4. Customer & Loyalty System
-![image](https://github.com/user-attachments/assets/865a63c3-ff16-4911-8ea5-470ad742b860)
-![image](https://github.com/user-attachments/assets/a86b44f1-efb2-41e8-ab74-2bc0a9b99048)
-![image](https://github.com/user-attachments/assets/2e788bb0-829f-4677-842b-b21090070560)
+
+![menu page)](IMG_3280.jpeg)
+
+![menu page)](IMG_3281.jpeg)
+
+![menu page)](IMG_3282.jpeg)
 
 In the Laravel Customer Loyalty System, LoyaltyController manage customer registrations, track their purchases and automatically assign loyalty points based on spending. It's part of a loyalty program intended to encourage repeat purchases and customer retention. 
 
