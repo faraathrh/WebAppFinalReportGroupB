@@ -138,10 +138,18 @@ Session data is cleared after the order is placed. Printing is optimized with CS
 In the Laravel Customer Loyalty System, LoyaltyController manage customer registrations, track their purchases and automatically assign loyalty points based on spending. It's part of a loyalty program intended to encourage repeat purchases and customer retention. 
 
 The key features are:
-1. Customer Registration
-2. View Customers
-3. Purchase Tracking
-4. Point Calculation
+1. Customer Registration:
+   - Admin/staff can register customers with name and email
+   - Each customer is uniquely identified by their email
+   - Loyalty points start at 0 upon registration
+2. View Customers:
+   - List all of the customers along with their total points
+   - Option to view and edit any customer profile
+3. Purchase Tracking:
+   - Each customers have purchase records history
+4. Point Calculation:
+   - Points are calculated as 1 point for every RM10 spent
+   - When a purchase is saved, customer's total loyalty points are updated automatically
 
 #### 5. Reporting & Analytics
 
