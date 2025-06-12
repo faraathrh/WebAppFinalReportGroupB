@@ -136,6 +136,13 @@ Session data is cleared after the order is placed. Printing is optimized with CS
 
 ## CHALLENGES / DIFFICULTIES TO DEVELOP THE APPLICATION
 
-One of the hardest challenges during the project was going back and forth between views and controllers to make sure the routes were correct. Many times, we mistook the coding and errors upon errors kept returning.
+One of the hardest challenges during the project was going back and forth between views and controllers to make sure the routes were correct. Many times, we mistook the coding and errors upon errors kept returning. Certainly! Here's an improved version that keeps it concise while adding the difficulty of merging authentication and templates:
+
+---
+
+**Challenges / Difficulties to Develop the Application**
+
+One of the hardest challenges during the project was constantly switching between views, controllers, and routes to ensure everything was correctly connected. Small mistakes in route names, form methods, or controller logic often caused repeated and confusing errors. This became even more difficult when merging **authentication logic** like user login, access control, and role-based permissions—with our existing Blade templates. Integrating these elements required modifying multiple files and ensuring templates only displayed content based on user roles, which often broke the layout or caused redirect issues. Balancing Laravel’s authentication flow with custom UI templates was time-consuming and required a deep understanding of both Laravel’s structure and Blade syntax.
+
 
 ## REFERENCES 
