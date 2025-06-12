@@ -169,6 +169,11 @@ The key features are:
    - When a purchase is saved, customer's total loyalty points are updated automatically
 
 #### 5. Reporting & Analytics
+![image](https://github.com/user-attachments/assets/cc405100-49b4-4490-b997-cf1509634890)
+![image](https://github.com/user-attachments/assets/5424e188-40b1-40b4-8c29-dc5943a05b41)
+![image](https://github.com/user-attachments/assets/1d6ff061-fbcb-4e67-ade9-d333a45c833a)
+
+
 
 
 ## CHALLENGES / DIFFICULTIES TO DEVELOP THE APPLICATION
