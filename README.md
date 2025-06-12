@@ -98,7 +98,7 @@ This project aims to provide a meaningful and ethical digital solution to the ev
 
 ## PROJECT SYSTEM CAPTURED SCREEN AND EXPLANATION
 
-#### 1. Menu Management (Admin Module)
+#### 1. Menu Management 
 
 ![menu page)](IMG_3280.jpeg)
 
@@ -113,7 +113,7 @@ This project aims to provide a meaningful and ethical digital solution to the ev
   A menu item and the image that goes with it are deleted from storage using the destroy() function.  The user interface is provided on the frontend using Blade views such as menu.create, menu.edit, and menu.index.  While the edit view enables altering existing items, the create view includes a form for adding new ones.  With jQuery-based category filtering and the ability to add or remove items, the index view presents every menu item in a fluid and filterable layout.  To guarantee correct operation, all interactions are protected against cross-site request forgery (CSRF) and make advantage of Laravel's routing and validation capabilities.
 
 
-#### 2. Point of Sale (POS) System (Staff Module) and Order Queue Management
+#### 2. Point of Sale (POS) System and Order Queue Management
 In the Laravel POS System, the POSController manages order-related logic using Laravel’s MVC architecture. It handles menu display, cart operations using sessions, checkout validation, and order saving. When users add items to the cart, they’re stored in the session. During checkout, processCheckout() validates input, saves the order to the orders table, and each item to the ordered_items table.
 
 The system uses Blade views:
@@ -123,7 +123,7 @@ The system uses Blade views:
 
 Session data is cleared after the order is placed. Printing is optimized with CSS for A6 paper. Laravel’s routing, session handling, and CSRF protection ensure smooth, secure operation.
 
-#### 3. Inventory Management (Admin Module)
+#### 3. Inventory Management 
 
 
 
